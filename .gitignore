@@ -1,0 +1,65 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+**/node_modules/
+**/vendor/
+
+# Build output and tool caches
+**/dist/
+**/.vite/
+**/.cache/
+**/.pytest_cache/
+**/.mypy_cache/
+
+# Python runtime
+**/.venv/
+**/venv/
+**/__pycache__/
+**/*.py[cod]
+
+# Laravel runtime
+Sentra_BE/bootstrap/cache/*.php
+!Sentra_BE/bootstrap/cache/.gitignore
+Sentra_BE/storage/framework/cache/*
+!Sentra_BE/storage/framework/cache/.gitignore
+Sentra_BE/storage/framework/sessions/*
+!Sentra_BE/storage/framework/sessions/.gitignore
+Sentra_BE/storage/framework/views/*
+!Sentra_BE/storage/framework/views/.gitignore
+Sentra_BE/storage/logs/*
+!Sentra_BE/storage/logs/.gitignore
+Sentra_BE/public/storage
+
+# SENTRA-ML generated data and local model files
+Sentra-ML/models/*.pt
+Sentra-ML/models/*.onnx
+Sentra-ML/models/*.engine
+Sentra-ML/models/*.tflite
+Sentra-ML/captures/*
+!Sentra-ML/captures/.gitkeep
+Sentra-ML/logs/*
+!Sentra-ML/logs/.gitkeep
+Sentra-ML/sentra_logs.db
+Sentra-ML/Ultralytics/
+Sentra-ML/.ultralytics/
+Sentra-ML/sample_videos/*
+!Sentra-ML/sample_videos/.gitkeep
+Sentra-ML/evaluation/results/annotated/
+
+# Databases and local uploads
+*.sqlite
+*.sqlite3
+*.db
+Sentra_BE/storage/app/public/detections/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo

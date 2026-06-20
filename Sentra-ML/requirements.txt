@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+fastapi
+uvicorn
+websockets
+python-multipart
+requests
+numpy
+pydantic

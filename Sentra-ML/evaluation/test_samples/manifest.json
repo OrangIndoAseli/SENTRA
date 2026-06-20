@@ -1,0 +1,344 @@
+[
+  {
+    "category": "helmet_only",
+    "file": "evaluation/test_samples/helmet_only/helmet_only_001.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_001427_jpg.rf.13d569ef8a35f05a7209926717c098d8.jpg",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "category": "helmet_only",
+    "file": "evaluation/test_samples/helmet_only/helmet_only_002.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_001476_jpg.rf.058deb38b4c1841efb3c61a061983798.jpg",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "category": "helmet_only",
+    "file": "evaluation/test_samples/helmet_only/helmet_only_003.jpg",
+    "source": "datasets/ppe_yolo/images/valid/helmet_005425_jpg.rf.3cf50f2f121928d948bad9f90b4f52ab.jpg",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "category": "helmet_only",
+    "file": "evaluation/test_samples/helmet_only/helmet_only_004.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_000888_jpg.rf.0c1eb6f457b9f7f371ddc6eaed1fc4de.jpg",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "category": "helmet_only",
+    "file": "evaluation/test_samples/helmet_only/helmet_only_005.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_001817_jpg.rf.de2031ef8542a6e79b10eb3d29e166d3.jpg",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "category": "helmet_only",
+    "file": "evaluation/test_samples/helmet_only/helmet_only_006.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_000706_jpg.rf.4561a17bd123a2b0a47a9cc5ae4eba96.jpg",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "category": "helmet_only",
+    "file": "evaluation/test_samples/helmet_only/helmet_only_007.jpg",
+    "source": "datasets/ppe_yolo/images/valid/helmet_006534_jpg.rf.991e1bc7c6933c66bb8a6d9afdb9781e.jpg",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "category": "helmet_only",
+    "file": "evaluation/test_samples/helmet_only/helmet_only_008.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_003675_jpg.rf.713dfdb8dc4f4c20e1858c5ee8eeb3cc.jpg",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "category": "helmet_only",
+    "file": "evaluation/test_samples/helmet_only/helmet_only_009.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_003460_jpg.rf.c8dd713659320802074505070908a8d7.jpg",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "category": "helmet_only",
+    "file": "evaluation/test_samples/helmet_only/helmet_only_010.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_004052_jpg.rf.af2d594eae115a31193bd88fc8b75785.jpg",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "category": "helmet_only",
+    "file": "evaluation/test_samples/helmet_only/helmet_only_011.jpg",
+    "source": "datasets/ppe_yolo/images/valid/helmet_006398_jpg.rf.d76821f14f5b307f7e188a879a2d992a.jpg",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "category": "helmet_only",
+    "file": "evaluation/test_samples/helmet_only/helmet_only_012.jpg",
+    "source": "datasets/ppe_yolo/images/valid/helmet_005515_jpg.rf.f790d350802b1ec20f365afb505950ac.jpg",
+    "classes": [
+      1
+    ]
+  },
+  {
+    "category": "no_ppe_or_head",
+    "file": "evaluation/test_samples/no_ppe_or_head/no_ppe_or_head_001.jpg",
+    "source": "datasets/ppe_yolo/images/valid/helmet_006579_jpg.rf.07e8f73f02066f6ad3c9d82c9f688cb0.jpg",
+    "classes": [
+      0
+    ]
+  },
+  {
+    "category": "no_ppe_or_head",
+    "file": "evaluation/test_samples/no_ppe_or_head/no_ppe_or_head_002.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_003668_jpg.rf.b91f896396eb2b175c800eb66c01c6b4.jpg",
+    "classes": [
+      0
+    ]
+  },
+  {
+    "category": "no_ppe_or_head",
+    "file": "evaluation/test_samples/no_ppe_or_head/no_ppe_or_head_003.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_002994_jpg.rf.f4e9ddfcbfe48a573a1fae30660cae05.jpg",
+    "classes": [
+      0
+    ]
+  },
+  {
+    "category": "no_ppe_or_head",
+    "file": "evaluation/test_samples/no_ppe_or_head/no_ppe_or_head_004.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_000528_jpg.rf.00726cd9cd382f14040db164ec2cef23.jpg",
+    "classes": [
+      0
+    ]
+  },
+  {
+    "category": "no_ppe_or_head",
+    "file": "evaluation/test_samples/no_ppe_or_head/no_ppe_or_head_005.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_004083_jpg.rf.fda201390a23382f5a54ed191fbd984a.jpg",
+    "classes": [
+      0
+    ]
+  },
+  {
+    "category": "no_ppe_or_head",
+    "file": "evaluation/test_samples/no_ppe_or_head/no_ppe_or_head_006.jpg",
+    "source": "datasets/ppe_yolo/images/valid/helmet_006386_jpg.rf.84bb84980f92d24f549c9706cf352e94.jpg",
+    "classes": [
+      0
+    ]
+  },
+  {
+    "category": "no_ppe_or_head",
+    "file": "evaluation/test_samples/no_ppe_or_head/no_ppe_or_head_007.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_004256_jpg.rf.e380b86cb98a3a3ed54204e7c5105fe8.jpg",
+    "classes": [
+      0
+    ]
+  },
+  {
+    "category": "no_ppe_or_head",
+    "file": "evaluation/test_samples/no_ppe_or_head/no_ppe_or_head_008.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_003466_jpg.rf.54ac1aed48312bee7310745097ffe08f.jpg",
+    "classes": [
+      0
+    ]
+  },
+  {
+    "category": "no_ppe_or_head",
+    "file": "evaluation/test_samples/no_ppe_or_head/no_ppe_or_head_009.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_001023_jpg.rf.a1aee571a2100c8ebf86297b22adad6f.jpg",
+    "classes": [
+      0
+    ]
+  },
+  {
+    "category": "no_ppe_or_head",
+    "file": "evaluation/test_samples/no_ppe_or_head/no_ppe_or_head_010.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_005071_jpg.rf.46d4c9a81e8451d7f8ac3a74fe65d9ff.jpg",
+    "classes": [
+      0
+    ]
+  },
+  {
+    "category": "no_ppe_or_head",
+    "file": "evaluation/test_samples/no_ppe_or_head/no_ppe_or_head_011.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_000154_jpg.rf.495ac612ef70931b98a0688e8909106f.jpg",
+    "classes": [
+      0
+    ]
+  },
+  {
+    "category": "no_ppe_or_head",
+    "file": "evaluation/test_samples/no_ppe_or_head/no_ppe_or_head_012.jpg",
+    "source": "datasets/ppe_yolo/images/train/helmet_000221_jpg.rf.510d37d3fb860fd638da5fdb3197d29f.jpg",
+    "classes": [
+      0
+    ]
+  },
+  {
+    "category": "vest_only",
+    "file": "evaluation/test_samples/vest_only/vest_only_001.jpg",
+    "source": "datasets/ppe_yolo/images/train/vest_pos_1462_jpg.rf.8ec07933663d0bdc81e892e5f2868282.jpg",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "category": "vest_only",
+    "file": "evaluation/test_samples/vest_only/vest_only_002.jpg",
+    "source": "datasets/ppe_yolo/images/train/vest_pos_1711_jpg.rf.5eada3ffd9262344aff1b87486136edb.jpg",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "category": "vest_only",
+    "file": "evaluation/test_samples/vest_only/vest_only_003.jpg",
+    "source": "datasets/ppe_yolo/images/test/vest_pos_807_jpg.rf.00c77a8505b1a4a99885767f7ee98a40.jpg",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "category": "vest_only",
+    "file": "evaluation/test_samples/vest_only/vest_only_004.jpg",
+    "source": "datasets/ppe_yolo/images/train/vest_Image68_jpg.rf.ed73973903a2753707ab2b1d020c13e4.jpg",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "category": "vest_only",
+    "file": "evaluation/test_samples/vest_only/vest_only_005.jpg",
+    "source": "datasets/ppe_yolo/images/train/vest_NRC_Commissioner_Svinicki_Visits_Vogtle_Construction_Site_-28April_2014-29_-2813609195514-29_jpg.rf.458d2ede478ef62e1500fdd3cf3cfa4a.jpg",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "category": "vest_only",
+    "file": "evaluation/test_samples/vest_only/vest_only_006.jpg",
+    "source": "datasets/ppe_yolo/images/train/vest_ppe_0470_jpg.rf.b2ae9361e795b94e961b3086581dd3f4.jpg",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "category": "vest_only",
+    "file": "evaluation/test_samples/vest_only/vest_only_007.jpg",
+    "source": "datasets/ppe_yolo/images/train/vest_image_109_jpg.rf.572032a513cdb15466946008990c4503.jpg",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "category": "vest_only",
+    "file": "evaluation/test_samples/vest_only/vest_only_008.jpg",
+    "source": "datasets/ppe_yolo/images/train/vest_ppe_0075_jpg.rf.464f53f56164833f140988a901e637b0.jpg",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "category": "vest_only",
+    "file": "evaluation/test_samples/vest_only/vest_only_009.jpg",
+    "source": "datasets/ppe_yolo/images/train/vest_Ground_crew_with_a_C-135FR_jpg.rf.94bf3dfffe7af1a57de1ce7f36e8e56f.jpg",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "category": "vest_only",
+    "file": "evaluation/test_samples/vest_only/vest_only_010.jpg",
+    "source": "datasets/ppe_yolo/images/train/vest_pos_2064_jpg.rf.244dd7eb490192b9a2b15dcb5e11dad6.jpg",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "category": "vest_only",
+    "file": "evaluation/test_samples/vest_only/vest_only_011.jpg",
+    "source": "datasets/ppe_yolo/images/valid/vest_image_193_jpg.rf.7336c981fcb256d4786ddfdb8950d806.jpg",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "category": "vest_only",
+    "file": "evaluation/test_samples/vest_only/vest_only_012.jpg",
+    "source": "datasets/ppe_yolo/images/train/vest_ppe_0269_jpg.rf.99971a8b497047c9b20f0a8d53dc9a96.jpg",
+    "classes": [
+      3
+    ]
+  },
+  {
+    "category": "real_assets",
+    "file": "evaluation/test_samples/real_assets/sample1.jpeg",
+    "source": "assets/sample1.jpeg",
+    "classes": []
+  },
+  {
+    "category": "real_assets",
+    "file": "evaluation/test_samples/real_assets/sample2.jpeg",
+    "source": "assets/sample2.jpeg",
+    "classes": []
+  },
+  {
+    "category": "real_assets",
+    "file": "evaluation/test_samples/real_assets/sample3.jpeg",
+    "source": "assets/sample3.jpeg",
+    "classes": []
+  },
+  {
+    "category": "real_assets",
+    "file": "evaluation/test_samples/real_assets/sample4.jpeg",
+    "source": "assets/sample4.jpeg",
+    "classes": []
+  },
+  {
+    "category": "real_assets",
+    "file": "evaluation/test_samples/real_assets/sample5.jpeg",
+    "source": "assets/sample5.jpeg",
+    "classes": []
+  },
+  {
+    "category": "real_assets",
+    "file": "evaluation/test_samples/real_assets/sample6.jpeg",
+    "source": "assets/sample6.jpeg",
+    "classes": []
+  },
+  {
+    "category": "real_assets",
+    "file": "evaluation/test_samples/real_assets/sample7.jpeg",
+    "source": "assets/sample7.jpeg",
+    "classes": []
+  },
+  {
+    "category": "real_assets",
+    "file": "evaluation/test_samples/real_assets/sample8.jpeg",
+    "source": "assets/sample8.jpeg",
+    "classes": []
+  },
+  {
+    "category": "real_assets",
+    "file": "evaluation/test_samples/real_assets/sample9.jpeg",
+    "source": "assets/sample9.jpeg",
+    "classes": []
+  }
+]

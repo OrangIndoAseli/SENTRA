@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* Memberitahu Tailwind v4 untuk mendeteksi class 'dark' di tag HTML */
+@variant dark (&:where(.dark, .dark *));

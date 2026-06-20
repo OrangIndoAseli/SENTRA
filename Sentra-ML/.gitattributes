@@ -1,0 +1,10 @@
+* text=auto
+
+*.pt binary
+*.onnx binary
+*.engine binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.mp4 binary
+*.avi binary

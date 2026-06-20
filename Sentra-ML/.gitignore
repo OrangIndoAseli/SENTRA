@@ -1,0 +1,43 @@
+# Python/runtime
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments
+.venv/
+.python312/
+.python312.zip
+
+# Local config/secrets
+.env
+.env.*
+!.env.example
+
+# ML datasets and generated artifacts
+datasets/
+runs/
+captures/*
+!captures/.gitkeep
+logs/*
+!logs/.gitkeep
+sentra_logs.db
+*.sqlite
+*.sqlite3
+
+# Model weights are large. Keep links/instructions in models/README.md instead.
+models/*.pt
+!models/README.md
+yolov8*.pt
+
+# Media/download leftovers
+assets/*.crdownload
+assets/*.exe
+*.zip
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,3703 @@
+[
+  {
+    "file": "helmet_only/helmet_only_001.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 1,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 80,
+          "risk_level": "HIGH",
+          "box": [
+            0,
+            3,
+            350,
+            328
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 2,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "helmet_only/helmet_only_002.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 0,
+      "detections": [],
+      "summary": {
+        "total_violation": 0,
+        "highest_risk": "SAFE",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "helmet_only/helmet_only_003.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 8,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 80,
+          "risk_level": "HIGH",
+          "box": [
+            389,
+            0,
+            499,
+            329
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 80,
+          "risk_level": "HIGH",
+          "box": [
+            70,
+            48,
+            159,
+            325
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 80,
+          "risk_level": "HIGH",
+          "box": [
+            118,
+            72,
+            277,
+            327
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_VEST"
+          ],
+          "risk_score": 30,
+          "risk_level": "WARNING",
+          "box": [
+            270,
+            47,
+            409,
+            231
+          ]
+        },
+        {
+          "worker_id": "W-005",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_VEST"
+          ],
+          "risk_score": 30,
+          "risk_level": "WARNING",
+          "box": [
+            343,
+            61,
+            396,
+            137
+          ]
+        },
+        {
+          "worker_id": "W-006",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_VEST"
+          ],
+          "risk_score": 30,
+          "risk_level": "WARNING",
+          "box": [
+            373,
+            36,
+            401,
+            115
+          ]
+        },
+        {
+          "worker_id": "W-007",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_VEST"
+          ],
+          "risk_score": 30,
+          "risk_level": "WARNING",
+          "box": [
+            90,
+            0,
+            147,
+            95
+          ]
+        },
+        {
+          "worker_id": "W-008",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_VEST"
+          ],
+          "risk_score": 30,
+          "risk_level": "WARNING",
+          "box": [
+            120,
+            55,
+            180,
+            140
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 11,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "helmet_only/helmet_only_004.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 1,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 80,
+          "risk_level": "HIGH",
+          "box": [
+            44,
+            134,
+            273,
+            548
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 2,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "helmet_only/helmet_only_005.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 4,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_VEST"
+          ],
+          "risk_score": 30,
+          "risk_level": "WARNING",
+          "box": [
+            35,
+            4,
+            137,
+            217
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_VEST"
+          ],
+          "risk_score": 30,
+          "risk_level": "WARNING",
+          "box": [
+            168,
+            125,
+            262,
+            226
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            302,
+            27,
+            315,
+            57
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_VEST"
+          ],
+          "risk_score": 30,
+          "risk_level": "WARNING",
+          "box": [
+            203,
+            29,
+            218,
+            60
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 5,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "helmet_only/helmet_only_006.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 3,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_VEST"
+          ],
+          "risk_score": 30,
+          "risk_level": "WARNING",
+          "box": [
+            223,
+            62,
+            270,
+            164
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_VEST"
+          ],
+          "risk_score": 30,
+          "risk_level": "WARNING",
+          "box": [
+            422,
+            63,
+            484,
+            242
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_VEST"
+          ],
+          "risk_score": 30,
+          "risk_level": "WARNING",
+          "box": [
+            314,
+            67,
+            361,
+            192
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 3,
+        "highest_risk": "WARNING",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "helmet_only/helmet_only_007.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 1,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 80,
+          "risk_level": "HIGH",
+          "box": [
+            172,
+            88,
+            392,
+            350
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 2,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "helmet_only/helmet_only_008.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 3,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 80,
+          "risk_level": "HIGH",
+          "box": [
+            78,
+            75,
+            232,
+            340
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_VEST"
+          ],
+          "risk_score": 30,
+          "risk_level": "WARNING",
+          "box": [
+            0,
+            46,
+            97,
+            341
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_VEST"
+          ],
+          "risk_score": 30,
+          "risk_level": "WARNING",
+          "box": [
+            150,
+            103,
+            180,
+            149
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 4,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "helmet_only/helmet_only_009.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 0,
+      "detections": [],
+      "summary": {
+        "total_violation": 0,
+        "highest_risk": "SAFE",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "helmet_only/helmet_only_010.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 1,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_VEST"
+          ],
+          "risk_score": 30,
+          "risk_level": "WARNING",
+          "box": [
+            57,
+            32,
+            270,
+            229
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 1,
+        "highest_risk": "WARNING",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "helmet_only/helmet_only_011.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 2,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [],
+          "risk_score": 0,
+          "risk_level": "SAFE",
+          "box": [
+            84,
+            26,
+            206,
+            179
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            225,
+            27,
+            336,
+            142
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 2,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "helmet_only/helmet_only_012.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 2,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 80,
+          "risk_level": "HIGH",
+          "box": [
+            283,
+            140,
+            443,
+            320
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 80,
+          "risk_level": "HIGH",
+          "box": [
+            41,
+            50,
+            290,
+            346
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 4,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "no_ppe_or_head/no_ppe_or_head_001.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 5,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            121,
+            58,
+            222,
+            330
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            13,
+            52,
+            122,
+            330
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            259,
+            77,
+            369,
+            330
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            244,
+            58,
+            298,
+            325
+          ]
+        },
+        {
+          "worker_id": "W-005",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            245,
+            58,
+            298,
+            248
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 13,
+        "highest_risk": "CRITICAL",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "no_ppe_or_head/no_ppe_or_head_002.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 6,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            104,
+            55,
+            185,
+            277
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            308,
+            60,
+            382,
+            279
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            264,
+            83,
+            314,
+            281
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            170,
+            80,
+            218,
+            277
+          ]
+        },
+        {
+          "worker_id": "W-005",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            211,
+            105,
+            249,
+            267
+          ]
+        },
+        {
+          "worker_id": "W-006",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            247,
+            115,
+            279,
+            208
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 12,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "no_ppe_or_head/no_ppe_or_head_003.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 9,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            145,
+            100,
+            214,
+            322
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            42,
+            97,
+            117,
+            358
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            369,
+            82,
+            427,
+            284
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            313,
+            108,
+            376,
+            375
+          ]
+        },
+        {
+          "worker_id": "W-005",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            199,
+            125,
+            238,
+            302
+          ]
+        },
+        {
+          "worker_id": "W-006",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            233,
+            98,
+            295,
+            314
+          ]
+        },
+        {
+          "worker_id": "W-007",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            277,
+            103,
+            319,
+            295
+          ]
+        },
+        {
+          "worker_id": "W-008",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            99,
+            157,
+            124,
+            257
+          ]
+        },
+        {
+          "worker_id": "W-009",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            316,
+            81,
+            354,
+            204
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 22,
+        "highest_risk": "CRITICAL",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "no_ppe_or_head/no_ppe_or_head_004.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 11,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            150,
+            106,
+            207,
+            251
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            22,
+            82,
+            76,
+            296
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            280,
+            94,
+            339,
+            293
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            340,
+            110,
+            394,
+            264
+          ]
+        },
+        {
+          "worker_id": "W-005",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            237,
+            101,
+            290,
+            263
+          ]
+        },
+        {
+          "worker_id": "W-006",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            61,
+            99,
+            117,
+            289
+          ]
+        },
+        {
+          "worker_id": "W-007",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            97,
+            102,
+            144,
+            277
+          ]
+        },
+        {
+          "worker_id": "W-008",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            419,
+            115,
+            449,
+            280
+          ]
+        },
+        {
+          "worker_id": "W-009",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            389,
+            113,
+            432,
+            279
+          ]
+        },
+        {
+          "worker_id": "W-010",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            371,
+            103,
+            399,
+            144
+          ]
+        },
+        {
+          "worker_id": "W-011",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            235,
+            103,
+            258,
+            253
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 22,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "no_ppe_or_head/no_ppe_or_head_005.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 11,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            391,
+            114,
+            460,
+            276
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            95,
+            115,
+            164,
+            287
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            327,
+            118,
+            382,
+            270
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            226,
+            118,
+            288,
+            267
+          ]
+        },
+        {
+          "worker_id": "W-005",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            36,
+            113,
+            98,
+            293
+          ]
+        },
+        {
+          "worker_id": "W-006",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            161,
+            129,
+            207,
+            264
+          ]
+        },
+        {
+          "worker_id": "W-007",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            14,
+            118,
+            50,
+            235
+          ]
+        },
+        {
+          "worker_id": "W-008",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            87,
+            112,
+            125,
+            257
+          ]
+        },
+        {
+          "worker_id": "W-009",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            0,
+            128,
+            20,
+            231
+          ]
+        },
+        {
+          "worker_id": "W-010",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            275,
+            124,
+            312,
+            253
+          ]
+        },
+        {
+          "worker_id": "W-011",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            195,
+            117,
+            232,
+            253
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 22,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "no_ppe_or_head/no_ppe_or_head_006.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 12,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            222,
+            53,
+            309,
+            192
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            0,
+            47,
+            57,
+            204
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            117,
+            51,
+            180,
+            203
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            196,
+            46,
+            242,
+            193
+          ]
+        },
+        {
+          "worker_id": "W-005",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            45,
+            33,
+            105,
+            204
+          ]
+        },
+        {
+          "worker_id": "W-006",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            87,
+            50,
+            128,
+            204
+          ]
+        },
+        {
+          "worker_id": "W-007",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            266,
+            49,
+            304,
+            98
+          ]
+        },
+        {
+          "worker_id": "W-008",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            159,
+            51,
+            195,
+            197
+          ]
+        },
+        {
+          "worker_id": "W-009",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            0,
+            42,
+            26,
+            88
+          ]
+        },
+        {
+          "worker_id": "W-010",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            187,
+            54,
+            209,
+            187
+          ]
+        },
+        {
+          "worker_id": "W-011",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            108,
+            53,
+            126,
+            82
+          ]
+        },
+        {
+          "worker_id": "W-012",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            266,
+            49,
+            308,
+            128
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 24,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "no_ppe_or_head/no_ppe_or_head_007.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 8,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            326,
+            109,
+            409,
+            294
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            172,
+            115,
+            252,
+            332
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            0,
+            49,
+            130,
+            330
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            406,
+            75,
+            499,
+            330
+          ]
+        },
+        {
+          "worker_id": "W-005",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            120,
+            122,
+            177,
+            305
+          ]
+        },
+        {
+          "worker_id": "W-006",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            246,
+            145,
+            274,
+            254
+          ]
+        },
+        {
+          "worker_id": "W-007",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            152,
+            124,
+            184,
+            308
+          ]
+        },
+        {
+          "worker_id": "W-008",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            184,
+            133,
+            198,
+            154
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 20,
+        "highest_risk": "CRITICAL",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "no_ppe_or_head/no_ppe_or_head_008.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 8,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            232,
+            59,
+            328,
+            324
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            115,
+            51,
+            202,
+            292
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            60,
+            54,
+            140,
+            256
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            327,
+            77,
+            391,
+            240
+          ]
+        },
+        {
+          "worker_id": "W-005",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            384,
+            91,
+            418,
+            192
+          ]
+        },
+        {
+          "worker_id": "W-006",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            305,
+            84,
+            335,
+            208
+          ]
+        },
+        {
+          "worker_id": "W-007",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            419,
+            95,
+            449,
+            198
+          ]
+        },
+        {
+          "worker_id": "W-008",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            427,
+            95,
+            449,
+            206
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 17,
+        "highest_risk": "CRITICAL",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "no_ppe_or_head/no_ppe_or_head_009.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 7,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            140,
+            156,
+            188,
+            284
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            240,
+            169,
+            280,
+            288
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            376,
+            176,
+            426,
+            326
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            323,
+            164,
+            366,
+            300
+          ]
+        },
+        {
+          "worker_id": "W-005",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            295,
+            162,
+            331,
+            274
+          ]
+        },
+        {
+          "worker_id": "W-006",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            363,
+            169,
+            395,
+            278
+          ]
+        },
+        {
+          "worker_id": "W-007",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            266,
+            165,
+            289,
+            262
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 16,
+        "highest_risk": "CRITICAL",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "no_ppe_or_head/no_ppe_or_head_010.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 8,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            292,
+            64,
+            445,
+            327
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            143,
+            64,
+            247,
+            327
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            207,
+            80,
+            270,
+            276
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            97,
+            105,
+            119,
+            176
+          ]
+        },
+        {
+          "worker_id": "W-005",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            14,
+            75,
+            102,
+            328
+          ]
+        },
+        {
+          "worker_id": "W-006",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            0,
+            71,
+            20,
+            329
+          ]
+        },
+        {
+          "worker_id": "W-007",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            135,
+            79,
+            172,
+            180
+          ]
+        },
+        {
+          "worker_id": "W-008",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            136,
+            79,
+            172,
+            223
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 18,
+        "highest_risk": "CRITICAL",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "no_ppe_or_head/no_ppe_or_head_011.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 5,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            381,
+            81,
+            499,
+            340
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            132,
+            82,
+            220,
+            338
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            214,
+            102,
+            292,
+            333
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_VEST"
+          ],
+          "risk_score": 30,
+          "risk_level": "WARNING",
+          "box": [
+            0,
+            74,
+            52,
+            339
+          ]
+        },
+        {
+          "worker_id": "W-005",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            266,
+            98,
+            338,
+            273
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 12,
+        "highest_risk": "CRITICAL",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "no_ppe_or_head/no_ppe_or_head_012.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 9,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            0,
+            90,
+            95,
+            361
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 80,
+          "risk_level": "HIGH",
+          "box": [
+            304,
+            127,
+            393,
+            361
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            232,
+            121,
+            334,
+            362
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            396,
+            131,
+            486,
+            363
+          ]
+        },
+        {
+          "worker_id": "W-005",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            179,
+            125,
+            241,
+            349
+          ]
+        },
+        {
+          "worker_id": "W-006",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            90,
+            106,
+            192,
+            359
+          ]
+        },
+        {
+          "worker_id": "W-007",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            86,
+            111,
+            153,
+            363
+          ]
+        },
+        {
+          "worker_id": "W-008",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            455,
+            130,
+            470,
+            168
+          ]
+        },
+        {
+          "worker_id": "W-009",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            85,
+            124,
+            134,
+            361
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 24,
+        "highest_risk": "CRITICAL",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "real_assets/sample1.jpeg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 2,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [],
+          "risk_score": 0,
+          "risk_level": "SAFE",
+          "box": [
+            123,
+            261,
+            804,
+            1594
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            1,
+            422,
+            276,
+            1594
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 2,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "real_assets/sample2.jpeg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 1,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [],
+          "risk_score": 0,
+          "risk_level": "SAFE",
+          "box": [
+            808,
+            1511,
+            1608,
+            3435
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 0,
+        "highest_risk": "SAFE",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "real_assets/sample3.jpeg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 1,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [],
+          "risk_score": 0,
+          "risk_level": "SAFE",
+          "box": [
+            827,
+            1774,
+            1542,
+            3480
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 0,
+        "highest_risk": "SAFE",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "real_assets/sample4.jpeg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 1,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [],
+          "risk_score": 0,
+          "risk_level": "SAFE",
+          "box": [
+            148,
+            640,
+            568,
+            1279
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 0,
+        "highest_risk": "SAFE",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "real_assets/sample5.jpeg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 2,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET"
+          ],
+          "risk_score": 40,
+          "risk_level": "WARNING",
+          "box": [
+            2,
+            705,
+            596,
+            1278
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            342,
+            702,
+            744,
+            1278
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 3,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "real_assets/sample6.jpeg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 1,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            0,
+            12,
+            319,
+            733
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 2,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "real_assets/sample7.jpeg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 3,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            209,
+            61,
+            345,
+            761
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            0,
+            16,
+            259,
+            805
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            144,
+            0,
+            344,
+            201
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 6,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "real_assets/sample8.jpeg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 5,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            142,
+            448,
+            688,
+            1278
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            559,
+            385,
+            768,
+            929
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            41,
+            389,
+            301,
+            1020
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            0,
+            386,
+            77,
+            760
+          ]
+        },
+        {
+          "worker_id": "W-005",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            692,
+            785,
+            959,
+            1270
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 10,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "real_assets/sample9.jpeg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 1,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            1159,
+            1772,
+            1794,
+            4032
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 2,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "vest_only/vest_only_001.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 3,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET"
+          ],
+          "risk_score": 40,
+          "risk_level": "WARNING",
+          "box": [
+            549,
+            252,
+            677,
+            687
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": true,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 90,
+          "risk_level": "CRITICAL",
+          "box": [
+            396,
+            251,
+            531,
+            660
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            1176,
+            352,
+            1279,
+            493
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 5,
+        "highest_risk": "CRITICAL",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "vest_only/vest_only_002.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 4,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": true,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 90,
+          "risk_level": "CRITICAL",
+          "box": [
+            421,
+            160,
+            492,
+            394
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            485,
+            191,
+            549,
+            382
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_VEST"
+          ],
+          "risk_score": 30,
+          "risk_level": "WARNING",
+          "box": [
+            564,
+            293,
+            642,
+            405
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            479,
+            528,
+            774,
+            717
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 8,
+        "highest_risk": "CRITICAL",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "vest_only/vest_only_003.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 1,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 80,
+          "risk_level": "HIGH",
+          "box": [
+            114,
+            45,
+            450,
+            374
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 2,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "vest_only/vest_only_004.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 6,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET"
+          ],
+          "risk_score": 40,
+          "risk_level": "WARNING",
+          "box": [
+            0,
+            192,
+            148,
+            415
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 120,
+          "risk_level": "CRITICAL",
+          "box": [
+            157,
+            205,
+            208,
+            395
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET"
+          ],
+          "risk_score": 40,
+          "risk_level": "WARNING",
+          "box": [
+            290,
+            0,
+            338,
+            119
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": false,
+          "vest": true,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_HELMET",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 90,
+          "risk_level": "CRITICAL",
+          "box": [
+            316,
+            235,
+            375,
+            386
+          ]
+        },
+        {
+          "worker_id": "W-005",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            344,
+            0,
+            391,
+            109
+          ]
+        },
+        {
+          "worker_id": "W-006",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            79,
+            0,
+            207,
+            187
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 11,
+        "highest_risk": "CRITICAL",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "vest_only/vest_only_005.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 4,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [],
+          "risk_score": 0,
+          "risk_level": "SAFE",
+          "box": [
+            53,
+            122,
+            1348,
+            2023
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": true,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [],
+          "risk_score": 0,
+          "risk_level": "SAFE",
+          "box": [
+            1980,
+            24,
+            3085,
+            2029
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": true,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [],
+          "risk_score": 0,
+          "risk_level": "SAFE",
+          "box": [
+            1314,
+            492,
+            3060,
+            2029
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": false,
+          "vest": false,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET",
+            "NO_VEST"
+          ],
+          "risk_score": 70,
+          "risk_level": "HIGH",
+          "box": [
+            0,
+            61,
+            217,
+            1082
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 2,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "vest_only/vest_only_006.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 1,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": true,
+          "in_danger_zone": true,
+          "violations": [
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 50,
+          "risk_level": "HIGH",
+          "box": [
+            185,
+            117,
+            403,
+            443
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 1,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "vest_only/vest_only_007.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 1,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": true,
+          "in_danger_zone": true,
+          "violations": [
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 50,
+          "risk_level": "HIGH",
+          "box": [
+            127,
+            79,
+            289,
+            449
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 1,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "vest_only/vest_only_008.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 1,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": false,
+          "in_danger_zone": true,
+          "violations": [
+            "NO_VEST",
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 80,
+          "risk_level": "HIGH",
+          "box": [
+            101,
+            74,
+            375,
+            399
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 2,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "vest_only/vest_only_009.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 4,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET"
+          ],
+          "risk_score": 40,
+          "risk_level": "WARNING",
+          "box": [
+            610,
+            685,
+            702,
+            928
+          ]
+        },
+        {
+          "worker_id": "W-002",
+          "helmet": true,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [],
+          "risk_score": 0,
+          "risk_level": "SAFE",
+          "box": [
+            140,
+            493,
+            633,
+            997
+          ]
+        },
+        {
+          "worker_id": "W-003",
+          "helmet": false,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET"
+          ],
+          "risk_score": 40,
+          "risk_level": "WARNING",
+          "box": [
+            39,
+            694,
+            111,
+            951
+          ]
+        },
+        {
+          "worker_id": "W-004",
+          "helmet": true,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [],
+          "risk_score": 0,
+          "risk_level": "SAFE",
+          "box": [
+            142,
+            270,
+            631,
+            995
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 2,
+        "highest_risk": "WARNING",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "vest_only/vest_only_010.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 1,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": false,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [
+            "NO_HELMET"
+          ],
+          "risk_score": 40,
+          "risk_level": "WARNING",
+          "box": [
+            537,
+            6,
+            831,
+            712
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 1,
+        "highest_risk": "WARNING",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "vest_only/vest_only_011.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 1,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": true,
+          "in_danger_zone": true,
+          "violations": [
+            "DANGER_ZONE_ENTRY"
+          ],
+          "risk_score": 50,
+          "risk_level": "HIGH",
+          "box": [
+            150,
+            73,
+            332,
+            436
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 1,
+        "highest_risk": "HIGH",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  },
+  {
+    "file": "vest_only/vest_only_012.jpg",
+    "payload": {
+      "camera_code": "EVAL",
+      "worker_count": 1,
+      "detections": [
+        {
+          "worker_id": "W-001",
+          "helmet": true,
+          "vest": true,
+          "in_danger_zone": false,
+          "violations": [],
+          "risk_score": 0,
+          "risk_level": "SAFE",
+          "box": [
+            49,
+            61,
+            813,
+            1300
+          ]
+        }
+      ],
+      "summary": {
+        "total_violation": 0,
+        "highest_risk": "SAFE",
+        "screenshot_saved": false,
+        "screenshot_path": null
+      }
+    }
+  }
+]
