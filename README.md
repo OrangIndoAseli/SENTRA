@@ -175,18 +175,6 @@ cd ..\Sentra_BE
 php artisan test
 ```
 
-## Saran konsep video demo
-
-Format paling efektif: video 90-120 detik dengan alur masalah → deteksi live → dampak operasional.
-
-1. **0-10 dtk — masalah:** tampilkan area kerja/CCTV dan narasi singkat bahwa pengecekan APD manual tidak real-time.
-2. **10-25 dtk — solusi:** tampilkan arsitektur sederhana: kamera → AI → dashboard/alert.
-3. **25-65 dtk — inti demo:** lakukan dua skenario yang terkontrol: pekerja tanpa helmet dan pekerja masuk zona bahaya. Fokus pada overlay, level risiko, dan popup alert.
-4. **65-90 dtk — pembuktian:** pindah ke dashboard/riwayat pelanggaran, buka screenshot bukti dan tunjukkan status alert dapat diselesaikan.
-5. **90-120 dtk — nilai bisnis:** simpulkan dengan tiga manfaat terukur: respons lebih cepat, bukti insiden terdokumentasi, dan data untuk evaluasi K3.
-
-Gunakan satu kamera, satu lokasi, dan dua skenario yang dapat diulang. Hindari mencoba terlalu banyak fitur atau kondisi pencahayaan yang tidak stabil saat rekaman. Siapkan rekaman cadangan dari alur yang sama untuk menghindari kegagalan webcam/model ketika presentasi.
-
 ## Lisensi
 
 Proyek ini dikembangkan untuk Hackathon KIDECO 2026. Tambahkan lisensi eksplisit sebelum dipublikasikan sebagai proyek open-source.
