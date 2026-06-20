@@ -26,7 +26,7 @@ Untuk deteksi gambar, frontend mengirimkan gambar ke Laravel lalu Laravel meneru
 
 - Dashboard statistik pelanggaran, kamera, dan alert aktif.
 - Live monitoring dari webcam/browser dengan overlay hasil deteksi dan latensi.
-- Deteksi `NO_HELMET`, `NO_VEST`, dan `DANGER_ZONE_ENTRY`.
+- Deteksi `NO_HELMET` dan `NO_VEST`.
 - Zona bahaya per kamera melalui koordinat `x1`, `y1`, `x2`, `y2`.
 - Penyimpanan insiden, alert, screenshot bukti, dan riwayat pelanggaran.
 - Pencegahan duplikasi alert saat pelanggaran yang sama masih aktif.
@@ -112,7 +112,6 @@ Buka `http://127.0.0.1:5173/monitoring`. URL API default adalah `http://127.0.0.
 | --- | ---: |
 | `NO_HELMET` | 40 |
 | `NO_VEST` | 30 |
-| `DANGER_ZONE_ENTRY` | 50 |
 
 | Total skor | Level |
 | --- | --- |
@@ -129,7 +128,6 @@ Buka `http://127.0.0.1:5173/monitoring`. URL API default adalah `http://127.0.0.
 | Laravel | `POST /api/detect-image` | Mendeteksi file gambar dan menyimpan hasil |
 | Laravel | `GET /api/dashboard` | Statistik, alert, kamera, dan pelanggaran terbaru |
 | Laravel | `GET/POST /api/cameras` | Membaca atau menambah kamera |
-| Laravel | `GET/POST /api/danger-zones` | Membaca atau menambah zona bahaya |
 | Laravel | `GET /api/detections` | Riwayat pelanggaran |
 | ML | `GET /health` | Status FastAPI |
 | ML | `POST /detect-image` | Inferensi gambar langsung |
